@@ -10,9 +10,9 @@ One of the leading retail stores in the US, Walmart, would like to predict the s
 
 Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.
 
-Dataset Info:
+### Dataset Info:
 This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the files 'stores' and 'features'. Within this file you will find the following fields :-
--
+
 * Store - the store number
 * Date - the week of sales
 * Weekly_Sales -  sales for the given store
@@ -24,13 +24,12 @@ This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in 
 
 ## Strategic Planning
 
-
 We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
 
-Importing Libraries
-Loading Dataset
-Data Exploration
-Data Preprocessing
-Feature Selection/Extraction
-Predictive Modelling
-Project Outcomes & Conclusion
+1. Importing Libraries
+2. Loading Dataset
+3. Data Exploration
+4. Data Preprocessing
+5. Feature Selection/Extraction
+6. Predictive Modelling
+7. Project Outcomes & Conclusion
